@@ -1,6 +1,6 @@
-# NextChoice:  A Django + Clustering
+# NextChoice: A Machine Learning, unsupervised clustering, AI project
 
-Goal: show machine learning (unsupervised clustering) in a minimal Django app that recommends the next most relevant choice given a few user-selected tags.
+Goal: show machine learning (unsupervised clustering) in a Django app that recommends the next most relevant choice given a few user-selected tags.
 
 ML technique: K-Means on user–tag binary vectors
 
