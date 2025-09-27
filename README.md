@@ -1,4 +1,4 @@
-# NextChoice:  A Tiny Django + Clustering Demo
+# NextChoice:  A Django + Clustering
 
 Goal: show machine learning (unsupervised clustering) in a minimal Django app that recommends the next most relevant choice given a few user-selected tags.
 
