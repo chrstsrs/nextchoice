@@ -1,4 +1,4 @@
-# NextChoice: A Machine Learning, unsupervised clustering, AI project
+# AI based NextChoice: A Machine Learning, unsupervised clustering project
 
 Goal: show machine learning (unsupervised clustering) in a Django app that recommends the next most relevant choice given a few user-selected tags.
 
